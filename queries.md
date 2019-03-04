@@ -36,6 +36,7 @@ where length(SupplierName) > 20
 SELECT * FROM Customers
 where CustomerName like '%mar__t%'
 
+//STRETCH
 
 ## list orders grouped by customer showing the number of orders per customer. _Rattlesnake Canyon Grocery_ should have 7 orders.
 
